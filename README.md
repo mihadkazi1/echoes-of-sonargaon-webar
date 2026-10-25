@@ -11,7 +11,7 @@
 ## 🎮 Gameplay Preview
 
 <p align="center">
-  <img src="./GAMEPLAY.jpg" alt="Echoes of Sonargaon gameplay" width="700">
+  <img src="./GAMEPLAY.jpg" alt="Echoes of Sonargaon gameplay" width="400">
 </p>
 
 *Explore the experience, encounter the cursed guardian, and uncover the hidden treasure through augmented reality.*

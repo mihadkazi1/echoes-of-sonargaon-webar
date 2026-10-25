@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 85,
+    "left": 0,
+    "width": 1024,
+    "height": 1365,
+    "isRotated": false,
+    "originalWidth": 1024,
+    "originalHeight": 1536
+  },
+  "imagePath": "image-targets/sonargaon-poster_luminance.png",
+  "metadata": null,
+  "name": "sonargaon-poster",
+  "resources": {
+    "originalImage": "sonargaon-poster_original.png",
+    "croppedImage": "sonargaon-poster_cropped.png",
+    "thumbnailImage": "sonargaon-poster_thumbnail.png",
+    "luminanceImage": "sonargaon-poster_luminance.png"
+  },
+  "created": 1792913214185,
+  "updated": 1792913253455
+}

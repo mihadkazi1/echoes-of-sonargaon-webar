@@ -10,7 +10,9 @@
 
 ## 🎮 Gameplay Preview
 
-![Echoes of Sonargaon gameplay screenshot](./GAMEPLAY.jpg)
+<p align="center">
+  <img src="./GAMEPLAY.jpg" alt="Echoes of Sonargaon gameplay" width="700">
+</p>
 
 *Explore the experience, encounter the cursed guardian, and uncover the hidden treasure through augmented reality.*
 
@@ -38,9 +40,11 @@ To experience the game, use a compatible smartphone with a working camera and an
 
 ### 🖼️ Image Target — Scan to Experience
 
-The following image is the target used to activate the augmented reality experience.
+Open the live WebAR game on your phone, allow camera access, and point your camera at this image.
 
-![Sonargaon WebAR image target — scan this image](./image-targets/sonargaon-poster_original.png)
+<p align="center">
+  <img src="./image-targets/sonargaon-poster_original.png" alt="Sonargaon image target for WebAR" width="400">
+</p>
 
 **Tips for successful tracking**
 - Keep the entire image visible inside the camera frame.
@@ -167,6 +171,8 @@ CSE Student | Game Developer | AR Developer
 Interested in building immersive experiences through **Augmented Reality, game development, interactive 3D applications, and software engineering**.
 
 - GitHub: [@mihadkazi1](https://github.com/mihadkazi1)
+
+
 
 ---
 
